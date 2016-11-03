@@ -1,4 +1,4 @@
-extern crate "rust-telnet" as telnet;
+extern crate rust_telnet as telnet;
 
 use telnet::carrier::{Carrier};
 use telnet::parser::{TelnetTokenizer};

@@ -2,11 +2,11 @@
 name = "rust-telnet-client"
 version = "0.0.1"
 dependencies = [
- "rust-telnet 0.0.1 (git+https://github.com/Twisol/rust-telnet.git?rev=b1387c8cb4fff730f307727975c03cd933f8c3d3)",
+ "rust-telnet 0.0.1 (git+https://github.com/Nercury/rust-telnet.git?rev=a1b5c532cad01c26458d99667eda9429ae188e56)",
 ]
 
 [[package]]
 name = "rust-telnet"
 version = "0.0.1"
-source = "git+https://github.com/Twisol/rust-telnet.git?rev=b1387c8cb4fff730f307727975c03cd933f8c3d3#b1387c8cb4fff730f307727975c03cd933f8c3d3"
+source = "git+https://github.com/Nercury/rust-telnet.git?rev=a1b5c532cad01c26458d99667eda9429ae188e56#a1b5c532cad01c26458d99667eda9429ae188e56"
 

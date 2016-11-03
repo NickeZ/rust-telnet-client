@@ -5,5 +5,5 @@ version = "0.0.1"
 authors = ["Jonathan Castello <twisolar@gmail.com>"]
 
 [dependencies.rust-telnet]
-git = "https://github.com/Twisol/rust-telnet.git"
-rev = "b1387c8cb4fff730f307727975c03cd933f8c3d3"
+git = "https://github.com/Nercury/rust-telnet.git"
+rev = "a1b5c532cad01c26458d99667eda9429ae188e56"
